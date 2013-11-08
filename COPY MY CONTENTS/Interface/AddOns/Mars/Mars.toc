@@ -1,0 +1,11 @@
+## Interface: 30300
+## Title: Mars
+## Author: Marforius
+## Version: Release 4
+## Notes: This addon is a collection of tweaks.
+## URL: irc.rizon.net #Emerald_Nightmare
+## X-Revision: 4
+## DefaultState: Enabled
+## LoadOnDemand: 0
+
+MGC.lua

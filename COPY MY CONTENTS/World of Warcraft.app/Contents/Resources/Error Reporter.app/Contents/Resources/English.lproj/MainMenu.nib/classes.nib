@@ -1,0 +1,19 @@
+{
+    IBClasses = (
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {
+            ACTIONS = {cancelAction = id; sendAction = id; }; 
+            CLASS = WoWErrorController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                iconImageView = NSTextView; 
+                logTextView = NSTextView; 
+                profileTextView = NSTextView; 
+                userDescriptionTextView = NSTextView; 
+                window = NSWindow; 
+            }; 
+            SUPERCLASS = NSObject; 
+        }
+    ); 
+    IBVersion = 1; 
+}

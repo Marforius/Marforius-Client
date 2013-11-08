@@ -1,0 +1,5 @@
+
+SET movie "0"
+SET readTOS "1"
+SET readEULA "1"
+SET showToolsUI "0"

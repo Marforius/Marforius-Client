@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BlizzardFileVersion</key>
+	<string>3.3.5.12340</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>Global</string>
+	<key>CFBundleDocumentTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>mpq</string>
+			</array>
+			<key>CFBundleTypeIconFile</key>
+			<string>mpq.icns</string>
+			<key>CFBundleTypeName</key>
+			<string>World of Warcraft Data</string>
+			<key>CFBundleTypeOSTypes</key>
+			<array>
+				<string>W!pq</string>
+			</array>
+			<key>CFBundleTypeRole</key>
+			<string>None</string>
+		</dict>
+	</array>
+	<key>CFBundleExecutable</key>
+	<string>World of Warcraft</string>
+	<key>CFBundleGetInfoString</key>
+	<string>World of Warcraft 3.3.5 (12340), Copyright © 2004-2010 Blizzard Entertainment.  All rights reserved.</string>
+	<key>CFBundleIconFile</key>
+	<string>wow.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.blizzard.worldofwarcraft</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>World of Warcraft</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>3.3.5 (12340)</string>
+	<key>CFBundleSignature</key>
+	<string>WoW!</string>
+	<key>CFBundleVersion</key>
+	<string>3.3.5</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2004-2010 Blizzard Entertainment.  All rights reserved.</string>
+</dict>
+</plist>
