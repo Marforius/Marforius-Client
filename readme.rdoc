@@ -36,8 +36,9 @@ Repacker::
 
 http://s007.radikal.ru/i300/1010/8b/62ede706158a.png
 
+
 Launcher::
-	A copy of the 3.3.5 Wotlk launcher, with some additions.
+   A copy of the 3.3.5 Wotlk launcher, with some additions.
 
 http://suxorz.com/i5/launcher.png
 
