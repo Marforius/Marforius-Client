@@ -1,0 +1,24 @@
+/* PACW - Cataclysm Theme */
+a, a:visited, a:active, a:hover {color:#F93;text-decoration:none;font-weight:bold;}
+
+body {background:url(../../images/cataclysm/bg.png) no-repeat top center #010101;}
+input[type="submit"] {background:url(../../images/cataclysm/submit.png) no-repeat;height:26px;width:70px;}
+input[type="submit"]:hover {background:url(../../images/cataclysm/submit_hov.png) no-repeat;}
+#logo {background:url(../../images/cataclysm/logo.png) no-repeat;height:146px;width:302px;}
+
+.link1 {background:url(../../images/cataclysm/account.png) no-repeat;width:80px;height:29px;float:left;border:0px;}
+.link1:hover {background:url(../../images/cataclysm/account_hov.png) no-repeat;}
+.link2 {background:url(../../images/cataclysm/status.png) no-repeat;width:80px;height:29px;float:left;border:0px;}
+.link2:hover {background:url(../../images/cataclysm/status_hov.png) no-repeat;}
+.link3 {background:url(../../images/cataclysm/howtocon.png) no-repeat;width:80px;height:29px;float:left;border:0px;}
+.link3:hover {background:url(../../images/cataclysm/howtocon_hov.png) no-repeat;}
+.link4 {background:url(../../images/cataclysm/vote.png) no-repeat;width:80px;height:29px;float:left;border:0px;}
+.link4:hover {background:url(../../images/cataclysm/vote_hov.png) no-repeat;}
+.link5 {background:url(../../images/cataclysm/forums.png) no-repeat;width:80px;height:29px;float:left;border:0px;}
+.link5:hover {background:url(../../images/cataclysm/forums_hov.png) no-repeat;}
+
+h1, h2, h3 {color:#F93;}
+
+.sep {background:url(../../images/cataclysm/separator.png) no-repeat;width:183px;height:13px;margin:0 auto;}
+#counter-bg {background:url(../../images/cataclysm/counter_bg.png) no-repeat;}
+#counter {background:url(../../images/cataclysm/counter.png) repeat-x;}

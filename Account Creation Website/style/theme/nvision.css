@@ -1,0 +1,20 @@
+/* PACW - Nightvision Theme */
+a, a:visited, a:active, a:hover {color:#a2ff7e;text-decoration:none;font-weight:bold;}
+
+body {background:url(../../images/nvision/bg.png) no-repeat top center #010101;}
+input[type="submit"] {background:url(../../images/nvision/submit.png) no-repeat;height:26px;width:70px;}
+input[type="submit"]:hover {background:url(../../images/nvision/submit_hov.png) no-repeat;}
+#logo {background:url(../../images/nvision/logo.png) no-repeat;height:146px;width:302px;}
+
+.link1 {background:url(../../images/nvision/account.png) no-repeat;width:80px;height:29px;float:left;border:0px;}
+.link1:hover {background:url(../../images/nvision/account_hov.png) no-repeat;}
+.link2 {background:url(../../images/nvision/status.png) no-repeat;width:80px;height:29px;float:left;border:0px;}
+.link2:hover {background:url(../../images/nvision/status_hov.png) no-repeat;}
+.link3 {background:url(../../images/nvision/howtocon.png) no-repeat;width:80px;height:29px;float:left;border:0px;}
+.link3:hover {background:url(../../images/nvision/howtocon_hov.png) no-repeat;}
+
+h1, h2, h3 {color:#a2ff7e;}
+
+.sep {background:url(../../images/nvision/separator.png) no-repeat;width:183px;height:13px;margin:0 auto;}
+#counter-bg {background:url(../../images/nvision/counter_bg.png) no-repeat;}
+#counter {background:url(../../images/nvision/counter.png) repeat-x;}

@@ -1,24 +1,21 @@
-=  Emerald Nightmare Client
-
-This is a fork of Marforius-Client designed specifically for use with the Emerald-Nightmare server.
-
-
 = Installation & Use
 
 You need to simply copy all of the contents of the folder "COPY MY CONTENTS" and paste them into your 3.3.5a Wow folder and tell it to overwrite all of the files as necessary.
-<b>NOT BEEN TESTED WITH OTHER LOCALES THAN enUS</b>
+
+TESTED ON ENUS
+<b>HAS NOT BEEN TESTED WITH OTHER LOCALES</b>
 
 
 = Why should I use this?
 
-* To reduce the client's size on disk by 4~ GBs.
+* To reduce the client's size on disk by 4.1 GBs.
 * To enable a scripter or developer to have full control of the client's interface and access secured methods in Lua.
 * Built in account selector/saver
 * Built in server selector (saver planned)
 * Built in temporary realmlist changer
 * Various bugfixes to the client.
 * Various tweaks for preformance to the client.
-
+* Edit anything, create anything, have full control over the client.
 
 
 = Known bugs 
@@ -27,9 +24,7 @@ No known bugs at this time.
 
 = Misc
   
-Repacker.exe will return false positives on engines that don't use accurate scanning methods. 
-Please see, http://www.assembla.com/code/marforius-client/subversion/nodes?rev=8 for scans of this file. 
-The executable's PE header (among other bloat) is missing because it is packed with FSG, which results in, apparently a false positive.
+Repacker.exe will return false positives, it is packed with FSG (Fast Small Good) and I do not have the sourcecode for another. I have ran this myself and, it works rather well. However, I haven't unpacked it to see why the creator thought they needed to use a packer on it. So perhaps run it in a sandbox.
 
 
 = Tools
@@ -38,6 +33,13 @@ A list of tools in the repo:
 
 Repacker::
    If you want to reduce how much size your client takes up, run the program in the /Repacker/ directory of the client's folder, this will take all the patches and consolidate them - no data is lost or deleted and no functionality is harmed. It will clear up about 4.10GBs of data that is useless and overwritten when the client loads it.
+
+http://s007.radikal.ru/i300/1010/8b/62ede706158a.png
+
+Launcher::
+	A copy of the 3.3.5 Wotlk launcher, with some additions.
+
+http://suxorz.com/i5/launcher.png
 
 
 = Bugs / Feature requests
@@ -57,7 +59,3 @@ http://s9.postimage.org/dabjlwy4v/Wo_WScrn_Shot_012712_080027.jpg
 http://s16.postimage.org/8vvxxe591/Wo_WScrn_Shot_040612_122248.jpg
 
 
-
-= Contact the Developers  
-
-irc.rizon.net #Emerald_Nightmare

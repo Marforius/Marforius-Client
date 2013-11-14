@@ -1,0 +1,30 @@
+/* PACW - Pingue Account Creation Website */
+
+* {margin:0;padding:0;}
+body {font-family:Arial;color:#FFF;font-size:11px;text-shadow:1px 1px 1px #000;}
+h1 {font-size:22px;font-weight:bold;text-shadow:1px 1px 1px #000;}
+h2 {font-size:14px;font-weight:bold;text-shadow:1px 1px 1px #000;}
+h3 {font-size:11px;font-weight:bold;text-shadow:1px 1px 1px #000;}
+a, a:visited, a:active, a:hover {border:0px;}
+input {background:url(../images/input.png) no-repeat;height:16px;width:161px;padding:5px;border:0px;outline:0;}
+td {font-weight:bold;text-shadow:1px 1px 1px #000;}
+tr {height:25px;}
+
+#serverstats {width:400px;margin:0 auto;text-align:center;margin-bottom:25px;}
+#serverstats2 {width:450px;margin:0 auto;margin-top:15px;}
+#serverstats2 table {margin:0 auto;}
+#acc {width:171px;margin:0 auto;text-align:center;}
+#logo {margin:0 auto;margin-top:100px;margin-bottom:35px;}
+#content {background:url(../images/con_head.png) no-repeat;margin:0 auto;padding-top:14px;width:494px;height:100%;}
+.con-bg {background:url(../images/con_bg.png) repeat-y;width:454px;height:100%;padding:20px;}
+#con-bot {background:url(../images/con_foot.png) no-repeat;margin:0 auto;width:494px;height:18px;}
+#navi {height:29px;margin-left:45px;width:400px;}
+#counter-bg {width:181px;height:19px;margin:0 auto;margin-top:10px;padding-top:1px;padding-left:1px;}
+#counter {height:18px;}
+
+.success {background:#b0ff9a;width:436px;height:23px;border:1px solid #2cb307;color:#2cb307;font-size:11px;text-align:center;padding-top:7px;}
+.nosuccess {background:#ff9a9a;width:436px;height:23px;border:1px solid #b30707;color:#b30707;font-size:11px;text-align:center;padding-top:7px;}
+.locked {background:#fdffc7;width:436px;height:23px;border:1px solid #8f9400;color:#8f9400;font-size:11px;text-align:center;padding-top:7px;}
+.s-img {float:right;padding-right:10px;background:url(../images/success.png) no-repeat;width:14px;height:14px;}
+.n-img {float:right;padding-right:10px;background:url(../images/nosuccess.png) no-repeat;width:14px;height:14px;}
+.l-img {float:right;padding-right:10px;background:url(../images/locked.png) no-repeat;width:14px;height:14px;}
